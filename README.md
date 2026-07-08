@@ -1,7 +1,5 @@
 # StudyMate 
 
-# StudyMate
-
 StudyMate is a full-stack AI studying platform that turns uploaded PDF learning material into source-grounded tutoring support and structured study resources.
 
 Users can upload a PDF, create a study session, ask questions about the uploaded material, and generate study assets such as FAQs, notes, quizzes, flashcards, and glossary terms.
